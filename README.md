@@ -1,6 +1,7 @@
 # To predict the survivor of the Titanic Ship wreck.
-Initially started with the Data pre-processing like data cleaning and data wragling.
 
-Once the data pre-procesing is done, featuring Engineering was performed to draw some useful features for developing the model.
+Objective:  To predict the survivor of the famous Titanic shipwreck using Titanic passenger dataset
 
-After having the cleaned data several Machine Learing Algorithms were trained to predict the survivor and chosing the one which derived the best results
+Solution: Performed data pre-processing like; data cleaning, data wragling and Featuring Engineering and used various Algorithms to trained the best suitedalgorithm for effective accuracy.
+
+Key Achievements: We were able to predict 86% of survivors correctly from the dataset created.
